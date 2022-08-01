@@ -1,0 +1,2 @@
+# LEGION_Y7000Series_Hackintosh
+LEGION_Y7000Series_Hackintosh ventura
